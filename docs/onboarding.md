@@ -180,11 +180,12 @@ The new [XDR Unifed Role Based Access Control (RBAC)](https://learn.microsoft.co
 1. Under Microsoft Setentinel Workload, select **Manage workspaces**
 
     ![XDR Managed Sentienl Workspaces](images/xdr-manage-sentinel-workspaces.png)
+
 1. Select the **Primary** workspace (The main Sentinel Workspace for your entities Security Operations)
+
 1. Click **Activate workspaces**
 
     ![XDR Managed Workspace Activiated](images/xdr-manage-sentinel-workspace-successful.png)
-
 
 ### 4.2.2 Configuration of Security Groups permission in Microsoft Security Portal (XDR)
 
@@ -225,6 +226,7 @@ The new [XDR Unifed Role Based Access Control (RBAC)](https://learn.microsoft.co
 #### Data Collections
 
 1. In the **Edit Assignment** blade, in the **Data Collections** section
+
 1. Click **Edit** in the **Microsoft Sentinel** assignment
 
     ![XDR Data Collections](images/xdr-data-collections.png)
