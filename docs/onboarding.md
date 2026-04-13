@@ -236,6 +236,7 @@ The new [XDR Unifed Role Based Access Control (RBAC)](https://learn.microsoft.co
     ![XDR Sentinel Assignment](images/xdr-Sentinel-Assignment.png)
 
 1. Click **Apply selection**
+
 1. In the **Edit Assignment** blade, click **Apply**
 
 ### 4.2.3 XDR Onboarding Validation
